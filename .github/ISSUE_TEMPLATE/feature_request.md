@@ -13,19 +13,19 @@ Please note the following:
 3. If you have used an LLM/AI to format your issue description, disclose this. Try to keep it concise. No walls of text please.
 -->
 
-## Problem
+### Problem
 
 A clear and concise description of the problem, i.e. "Why is this needed?"
 Example: I'm always frustrated when [...]
 
-## Solutions
+### Solutions
 
 A clear and concise description of what you want to happen.
 
-## Alternatives
+### Alternatives
 
 A clear and concise description of any alternative solutions or features you've considered.
 
-## Additional context
+### Additional context
 
 Add any other context or screenshots about the feature request here.
